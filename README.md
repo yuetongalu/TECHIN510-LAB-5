@@ -1,3 +1,3 @@
-# Techin-Lab2-Lab5
+# Techin-510-Lab5
 
-Hi, could you please recheck this: I re-upload the Lab2 and Lab5 in the same file. 
+This repo is the repost of lab 5 assignment.
